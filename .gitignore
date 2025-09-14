@@ -1,0 +1,24 @@
+# 系統檔案
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 編輯器檔案
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 暫存檔案
+*.tmp
+*.temp
+.cache/
+
+# 個人筆記（如果不想同步個人筆記）
+personal_notes/
+drafts/
