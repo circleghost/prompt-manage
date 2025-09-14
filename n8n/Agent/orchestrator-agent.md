@@ -60,7 +60,7 @@ updated_date: 2025-09-14
   • 必填：summary、start、end｜
   • 可選：description、location、attendees（逗號字串）、createMeet（布林）｜
   • 輸出：標準事件 JSON、衝突建議或 pending 刪除確認｜
-  • 回應格式：僅提供會議基本資料（標題、時間、平台、連結）與簡短詢問，不包含操作記錄或邀請連結建議
+  • 備註：具體回應格式由 Calendar sub-agent 負責
 
 - GroupChatHistory Assistant｜群組訊息查詢（列群組、依群組與日期抓訊息）｜
   • 問群組或日期對話內容時｜
