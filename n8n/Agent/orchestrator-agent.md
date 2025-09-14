@@ -1,5 +1,5 @@
 ---
-author: Arthur
+author: 元魁
 version: 1.0.0
 language: 中文
 description: 小魁 - 老闆的高級智能助理，負責多代理協作的總管，理解需求、規劃步驟、挑選工具

@@ -1,5 +1,5 @@
 ---
-author: Arthur
+author: 元魁
 version: 1.1.0
 language: 中文
 description: Google Calendar 子代理，專責執行行事曆相關操作，以標準格式回傳給主代理
